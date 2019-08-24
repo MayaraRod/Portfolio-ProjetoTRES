@@ -1,0 +1,19 @@
+page-cardapio {
+ .titulo{
+    text-align: left;
+    font-family: 'Spicy Rice', cursive;
+    font-size: 20 pt;
+ }   
+.content{
+    position: relative;
+    background-color:#ad702f;
+    padding-left: 0px;
+    .lista{
+        ion-item{
+            background-color:#ad702f;
+            text-align: center;
+        }
+
+    }
+}
+}
